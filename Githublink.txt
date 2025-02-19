@@ -1,0 +1,7 @@
+Link to Github
+-----------------
+https://github.com/Li-Guang-Han/COMP-5970-Assignment-2
+
+Link to Website
+-----------------
+https://li-guang-han.github.io/COMP-5970-Assignment-2/MyWebsite/index.html
